@@ -1,0 +1,14 @@
+﻿  Timber.cpp
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(43,55): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(43,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(262,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(313,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(356,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(360,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(379,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(382,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(403,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(407,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(435,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Timber.cpp(439,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\harsh\Documents\11arshaan\Code\C++ study\Timber\Debug\Timber.exe
